@@ -1,3 +1,5 @@
+body { padding-top: 70px; }
+
 div.jumbotron {
   background-image:url('/assets/images/hero-bg.png');
 }
