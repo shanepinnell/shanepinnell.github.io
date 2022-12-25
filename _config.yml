@@ -1,0 +1,5 @@
+plugins:
+    - jekyll/mastodon_webfinger
+mastodon:
+    username: shane_pinnell@educhat.social
+    instance: shanepinnell.com
