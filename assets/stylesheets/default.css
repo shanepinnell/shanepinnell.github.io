@@ -2,6 +2,15 @@ body { padding-top: 70px; }
 
 div.jumbotron {
   background-image:url('/assets/images/hero-bg.png');
+  color: #fff;
+}
+
+div.jumbotron a{
+  color: #fff;
+}
+
+div.jumbotron p {
+  font-weight: bold;
 }
 
 .bs-footer {
