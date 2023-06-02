@@ -1,5 +1,1 @@
-plugins:
-    - jekyll/mastodon_webfinger
-mastodon:
-    username: shane_pinnell
-    instance: educhat.social
+_config.yml
