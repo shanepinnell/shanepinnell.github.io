@@ -1,1 +1,7 @@
-_config.yml
+mastodon:
+    username: shane_pinnell
+    instance: educhat.social
+twitter: shane_pinnell
+linkedin: shanepinnell
+
+include: [ "/.well-known" ]
